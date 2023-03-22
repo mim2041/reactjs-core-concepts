@@ -21,6 +21,7 @@ function App() {
       <Friend></Friend>
       <Friend></Friend>
       <Friend></Friend>
+      <Friend></Friend>
     </div>
   );
 }
